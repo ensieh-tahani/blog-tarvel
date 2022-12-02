@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="302px" height="200px" viewBox="0 0 302 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu_icon" fill="#FC655F" fill-rule="nonzero">
+            <path d="M283.3,45.9 L87.3,45.9 C77.4,45.9 69.4,36.9 69.4,25.9 C69.4,14.9 77.4,5.9 87.3,5.9 L283.3,5.9 C293.2,5.9 301.2,14.9 301.2,25.9 C301.2,36.9 293.2,45.9 283.3,45.9 Z" id="Shape"></path>
+            <circle id="Oval" cx="26.2" cy="25.9" r="25.5"></circle>
+            <path d="M283.3,120 L87.3,120 C77.4,120 69.4,111 69.4,100 C69.4,89 77.4,80 87.3,80 L283.3,80 C293.2,80 301.2,89 301.2,100 C301.2,111 293.2,120 283.3,120 Z" id="Shape"></path>
+            <circle id="Oval" cx="26.2" cy="100" r="25.5"></circle>
+            <path d="M283.3,194.1 L87.3,194.1 C77.4,194.1 69.4,185.1 69.4,174.1 C69.4,163.1 77.4,154.1 87.3,154.1 L283.3,154.1 C293.2,154.1 301.2,163.1 301.2,174.1 C301.2,185.1 293.2,194.1 283.3,194.1 Z" id="Shape"></path>
+            <circle id="Oval" cx="26.2" cy="174.1" r="25.5"></circle>
+        </g>
+    </g>
+</svg>
